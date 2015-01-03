@@ -25,7 +25,7 @@ function allfunc(){
 			    clearInterval(move_pic);
 		    }
 		    texts[i].onmouseout=function(){
-		    	move_pic;
+		    	move_picture();
 		    }
 	    };
 	}
