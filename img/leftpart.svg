@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="118px" viewBox="0 0 18 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_dis_menu</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="未登录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="slice" sketch:type="MSArtboardGroup" transform="translate(-166.000000, -450.000000)">
+            <path d="M167,463 L167,465 L183,465 L183,463 L167,463 Z M167,453 L167,455 L183,455 L183,453 L167,453 Z M167,458 L167,460 L183,460 L183,458 L167,458 Z" id="Rectangle-path-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M167,513 L167,515 L183,515 L183,513 L167,513 Z M167,503 L167,505 L183,505 L183,503 L167,503 Z M167,508 L167,510 L183,510 L183,508 L167,508 Z" id="Rectangle-path-3" fill="#999999" sketch:type="MSShapeGroup"></path>
+            <path d="M167,563 L167,565 L183,565 L183,563 L167,563 Z M167,553 L167,555 L183,555 L183,553 L167,553 Z M167,558 L167,560 L183,560 L183,558 L167,558 Z" id="Rectangle-path-4" fill="#444444" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
